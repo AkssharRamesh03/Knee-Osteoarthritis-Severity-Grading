@@ -2,6 +2,6 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://drive.google.com/uc?id=1tGXNqQnWCHbOYin5qSOHNBhSgAj7XG17
+  source_URL: https://github.com/AkssharRamesh03/ML_DATA_SET/raw/main/knee-ostreo-data.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
